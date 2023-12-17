@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swatikanathe09
 - 👀 I’m interested in ... Coding 
-- 🌱 I’m currently learning ...c, c++ oops and web dev
+- 🌱 I’m currently learning ...c, c++, JAVA,oops and web dev
 - 📫 How to reach me via linkedin - Swati kanathe
 
 <!---
